@@ -9,14 +9,14 @@ const projects = [
     name: "Rimon fund website",
     year: "May 2024",
     align: "right",
-    image: "../../public/images/Rimon.png",
+    image: "/images/Rimon.png",
     link: "https://karin-goldin.github.io/Rimon-project/",
   },
   {
     name: "Whats in the fridge? (recepies app)",
     year: "june 2025",
     align: "left",
-    image: "../../public/images/Whats-in-the-fridge.png",
+    image: "/images/Whats-in-the-fridge.png",
     link: "https://whats-in-the-fridge-eta.vercel.app/",
   },
 ];

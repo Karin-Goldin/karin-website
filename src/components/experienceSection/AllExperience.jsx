@@ -6,17 +6,6 @@ import { fadeIn } from "../../framerMotion/variants";
 
 const experiences = [
   {
-    job: "NOC Engineer",
-    company: "Cybereason",
-    date: "2021-2023",
-    responsibilities: [
-      "Monitored and managed network operations",
-      "Troubleshot and resolved network issues",
-      "Collaborated with cross-functional teams",
-      "Maintained network security protocols",
-    ],
-  },
-  {
     job: "Front-End Developer",
     company: "Cybereason",
     date: "2023-present",
@@ -25,6 +14,17 @@ const experiences = [
       "Developed user-friendly web interfaces.",
       "Collaborated with designers to implement UI/UX best practices.",
       "Optimized applications for maximum speed and scalability.",
+    ],
+  },
+  {
+    job: "NOC Engineer",
+    company: "Cybereason",
+    date: "2021-2023",
+    responsibilities: [
+      "Monitored and managed network operations",
+      "Troubleshot and resolved network issues",
+      "Collaborated with cross-functional teams",
+      "Maintained network security protocols",
     ],
   },
 ];
